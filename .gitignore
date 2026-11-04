@@ -1,0 +1,13 @@
+# Reference books — never commit these
+ebooks/
+
+# Excel / Office lock and temp files
+~$*
+*.tmp
+
+# OS clutter
+Thumbs.db
+.DS_Store
+
+# Claude Code local-only settings
+.claude/settings.local.json

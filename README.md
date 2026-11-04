@@ -103,4 +103,4 @@ reproduce. To freeze a run, the totals in `Dashboard!E5:E14` and the NPVs in
 
 ## Version
 
-`v0.9.0` — first tagged release.
+`v0.9.1` — current release (v0.9.0 was the first tagged release).
